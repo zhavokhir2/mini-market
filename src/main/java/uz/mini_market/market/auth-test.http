@@ -1,0 +1,2 @@
+POST http://localhost:8080/api/admin/promote/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJKYXZvaEJlazIwIiwicm9sZXMiOlsiUk9MRV9BRE1JTiJdLCJpYXQiOjE3NDg0NTY4MDcsImV4cCI6MTc0ODU0MzIwN30.SaHLu81Rcwz2FKVLDB5CHcyyViBj_wK_BMrnpHtYj40
